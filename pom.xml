@@ -7,6 +7,9 @@
     <groupId>the.wuxjian</groupId>
     <artifactId>course</artifactId>
     <version>1.0</version>
+    <modules>
+        <module>eureka</module>
+    </modules>
     <packaging>pom</packaging>
 
     <parent>
